@@ -3,7 +3,7 @@
 %define version 1.1.0
 %define release %mkrel 1
 
-Summary:	Actuarial functions for Octave.
+Summary:	Actuarial functions for Octave
 Name:		%{name}
 Version:	%{version}
 Release:	%{release}
