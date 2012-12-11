@@ -48,3 +48,11 @@ mv %{pkgname}/DESCRIPTION .
 %doc COPYING DESCRIPTION
 %{_datadir}/octave/packages/%{pkgname}-%{version}
 
+
+
+%changelog
+* Tue Jun 28 2011 Lev Givon <lev@mandriva.org> 1.1.0-1mdv2011.0
++ Revision: 687742
+- import octave-actuarial
+
+
