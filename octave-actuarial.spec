@@ -3,7 +3,7 @@
 Summary:	Actuarial functions for Octave
 Name:		octave-%{pkgname}
 Version:	1.1.0
-Release:	2
+Release:	3
 Source0:	%{pkgname}-%{version}.tar.gz
 License:	GPLv2+
 Group:		Sciences/Mathematics
